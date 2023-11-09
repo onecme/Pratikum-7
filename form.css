@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.navbar{
+    background-color: black;
+    padding: 15px 100px;
+}
+.navbar a{
+    text-decoration: none;
+    color: #aaa;
+    margin: 0 10px;
+}
+.navbar a h4{
+    display: inline;
+}
+form Table{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3{
+    margin-top: 20px;
+    text-align: center;
+    font-weight: 100;
+}
+td{
+    padding-bottom: 15px;
+    padding-right: 30px;
+}
+label{
+    display: block;
+    text-align: end;
+    font-size: 14px;
+}
+.btn{
+    padding: 7px 10px;
+    border-radius: 7px;
+    border: 0;
+}
+.btn-red{
+    background-color: #e45048;
+    color: #ffff
+}
+.btn-blue{
+    background-color: #33aabb;
+    color: #ffff;
+}
+input, select{
+    height: 25px;
+}
+input, select, textarea{
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
